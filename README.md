@@ -14,7 +14,7 @@ Think of a "tap" like a package repository.
 
 
 ```bash
-brew tap ParadigmZero/unsigned-cask-homebrew-tap
+brew tap paradigmzero/unsigned-cask-tap
 ```
 
 ## List and confirm
@@ -26,7 +26,7 @@ brew tap
 # Remove
 
 ```bash
-brew untap ParadigmZero/local-homebrew-tap
+brew untap paradigmzero/unsigned-cask-tap
 ```
 ## Update
 
