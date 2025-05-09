@@ -1,3 +1,4 @@
+# unnotarized
 cask "okular" do
   arch arm: "arm64", intel: "x86_64"
 
