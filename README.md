@@ -31,7 +31,7 @@ Think of a "tap" like a package repository.
 
 
 ```bash
-brew tap paradigmzero/unnotarized-cask-tap
+brew tap paradigmzero/other-cask-tap
 ```
 
 ## List and confirm
@@ -43,7 +43,7 @@ brew tap
 # Remove
 
 ```bash
-brew untap paradigmzero/unnotarized-cask-tap
+brew untap paradigmzero/other-cask-tap
 ```
 ## Update
 
